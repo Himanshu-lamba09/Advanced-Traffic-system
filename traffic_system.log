@@ -1,0 +1,31 @@
+2025-03-26 09:50:32,386 - DEBUG - Initializing TrafficManager
+2025-03-26 09:50:32,386 - DEBUG - Initializing TrafficLane 1 with source: 0
+2025-03-26 09:50:34,333 - DEBUG - Starting frame processing for Lane 1
+2025-03-26 09:50:34,333 - DEBUG - Initializing TrafficLane 2 with source: C:\Users\user\OneDrive\Desktop\traffic system\road2.mp4
+2025-03-26 09:50:34,625 - DEBUG - Starting frame processing for Lane 2
+2025-03-26 09:50:34,625 - DEBUG - Initializing TrafficLane 3 with source: C:\Users\user\OneDrive\Desktop\traffic system\empty.mp4
+2025-03-26 09:50:34,888 - DEBUG - Starting frame processing for Lane 3
+2025-03-26 09:50:34,888 - DEBUG - Initializing TrafficLane 4 with source: C:\Users\user\OneDrive\Desktop\traffic system\road2.mp4
+2025-03-26 09:50:35,288 - DEBUG - Starting frame processing for Lane 4
+2025-03-26 09:50:35,288 - INFO - TrafficManager initialized successfully
+2025-03-26 09:50:40,385 - INFO - Lane 2 switched to Yellow
+2025-03-26 09:50:40,522 - INFO - Lane 4 switched to Yellow
+2025-03-26 09:50:40,523 - INFO - Lane 2 switched to Red
+2025-03-26 09:50:43,542 - INFO - Lane 4 switched to Green
+2025-03-26 09:50:43,542 - INFO - Lane 4 switched from Yellow to Green
+2025-03-26 09:50:45,630 - INFO - Lane 2 switched to Yellow
+2025-03-26 09:50:45,630 - INFO - Lane 4 switched to Red
+2025-03-26 09:50:48,691 - INFO - Lane 2 switched to Green
+2025-03-26 09:50:48,692 - INFO - Lane 2 switched from Yellow to Green
+2025-03-26 09:50:50,746 - INFO - Lane 4 switched to Yellow
+2025-03-26 09:50:50,746 - INFO - Lane 2 switched to Red
+2025-03-26 09:50:53,773 - INFO - Lane 4 switched to Green
+2025-03-26 09:50:53,773 - INFO - Lane 4 switched from Yellow to Green
+2025-03-26 09:50:55,793 - INFO - Lane 2 switched to Yellow
+2025-03-26 09:50:55,793 - INFO - Lane 4 switched to Red
+2025-03-26 09:50:56,380 - DEBUG - Cleaning up TrafficManager
+2025-03-26 09:50:56,380 - DEBUG - Cleaning up Lane 1
+2025-03-26 09:50:57,010 - DEBUG - Cleaning up Lane 2
+2025-03-26 09:50:59,026 - DEBUG - Cleaning up Lane 3
+2025-03-26 09:51:01,048 - DEBUG - Cleaning up Lane 4
+2025-03-26 09:51:02,320 - INFO - Program terminated
